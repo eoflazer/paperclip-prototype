@@ -1,0 +1,5 @@
+{
+  "name": "Paperclip",
+  "description": "A intelligent reading list tracker that automatically extracts article metadata using Gemini AI.",
+  "requestFramePermissions": []
+}
